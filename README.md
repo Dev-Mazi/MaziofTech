@@ -4,10 +4,11 @@
 
 Hi, I’m Anthony, a front-end developer in training. I enjoy writing codes and solving problems.
 
-Skills:  HTML / CSS / SCSS / TAILWIND / JAVASCRIPT
+Skills:  HTML / CSS / SCSS / JAVASCRIPT
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on myself. 
+- 🌱 I’m currently learning SCSS/JAVASCRIPT 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MaziofTech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://t.co/b7QwD2IVPw/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://t.co/jcMSXFimh9)  
 
