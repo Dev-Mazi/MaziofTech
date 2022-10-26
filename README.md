@@ -12,11 +12,9 @@ Skills:  HTML / CSS / SCSS / JAVASCRIPT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MaziofTech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://t.co/b7QwD2IVPw/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://t.co/jcMSXFimh9)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/MaziofTech)](https://github.com/ryo-ma/github-profile-trophy)
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/MaziofTech)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/MaziofTech)  
 
  
 
