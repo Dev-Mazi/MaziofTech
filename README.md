@@ -1,5 +1,13 @@
- Hi there👋
+### Hi there 👋, Chidera Anthony
+#### Web Development
+![Web Development](https://pbs.twimg.com/profile_banners/809147850093395968/1666750436/1080x360)
 
-Hi, I’m Anthony, a front-end developer in training. I enjoy writing codes and solving problems. You can check out my twitter where I tweet about my journey at https://t.co/jcMSXFimh9 
+Hi, I’m Anthony, a front-end developer in training. I enjoy writing codes and solving problems.
 
-[![Chidera's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaziofTech)](https://github.com/MaziofTech/github-readme-stats)
+Skills:  HTML / CSS / SCSS / TAILWIND / JAVASCRIPT
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
