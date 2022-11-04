@@ -14,8 +14,8 @@ Skills:  HTML / CSS / SCSS / JAVASCRIPT
 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Dev Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaziofTech)](https://github.com/MaziofTech/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaziofTech&show_icons=true&theme=transparent)
+
+![Mazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaziofTech&show_icons=true&theme=transparent)
 
 
 
